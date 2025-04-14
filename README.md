@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет! Я Алихан
 
-<!--
-**Cowspump/Cowspump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — начинающий **Fullstack Developer** с уклоном в **бэкенд**, увлечённый созданием интересных проектов и постоянным ростом в программировании. Сейчас учусь в КБТУ на направлении "Информационные технологии", активно развиваюсь в **Python** и **FastAPI**, а также осваиваю фронтенд.
 
-Here are some ideas to get you started:
+## 💻 Мой стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ **Backend**: Python, FastAPI  
+- 🌐 **Frontend**: HTML, CSS, JavaScript (Vanilla), изучаю React  
+- 🔧 **Инструменты**: Git, GitHub  
+- 🧠 Также интересуюсь созданием Telegram-ботов, Unity, AI/ML и технологиями в целом
+
+## 🧠 Мой LeetCode-прогресс
+
+Я практикуюсь в решении алгоритмических задач каждый день на LeetCode — прокачиваю логику и готовлюсь к собеседованиям:
+
+👉 [Посмотреть мой LeetCode](https://leetcode.com/cowspump)
+
+---
+
+## 📫 Как со мной связаться:
+- Telegram: [@cowspump](https://t.me/cowspump)
+- Email: moldabayevalikhan.se@gmail.com
+
+---
+
+🔭 В планах — запуск собственного стартапа, развитие крутого комьюнити, и, конечно же, Porsche 🏎️  
